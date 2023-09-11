@@ -1,6 +1,6 @@
 - 👋 Hi, I’m John
 - 👀 I’m interested in C++ / OpenGL / Blender
-- 🌱 I’m currently writing an OpenGL engine. In reality I am doing it to learn OpenGL but who knows? Maybe I will use the engine to do something constructive (it has a real nice games loop).
+- 🌱 I’m currently writing an OpenGL engine. In reality I am doing it to learn OpenGL (with a layering of multi-threaded memory management on top) but who knows? Maybe I will use the engine to do something constructive (it has a real nice games loop).
 
 - 📫 You can reach me at jfwebb808 on gmail
 
